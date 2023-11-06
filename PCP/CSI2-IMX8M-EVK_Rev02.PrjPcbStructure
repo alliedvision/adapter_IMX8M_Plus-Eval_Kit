@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=CSI2-IMX8M-EVK-1_Rev02.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=CSI2-IMX8M-EVK-1_Rev02.SchDoc|Designator=CAM1|SchDesignator=REPEAT(CAM,1,2)|FileName=CSI2-IMX8M-EVK-2_Rev02.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=CSI2-IMX8M-EVK-2_Rev02.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CSI2-IMX8M-EVK-1_Rev02.SchDoc|Designator=CAM2|SchDesignator=REPEAT(CAM,1,2)|FileName=CSI2-IMX8M-EVK-2_Rev02.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=CSI2-IMX8M-EVK-2_Rev02.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
